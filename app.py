@@ -13,7 +13,7 @@ if hist_button: # se o botão for clicado
 
 build_histogram = st.checkbox('Criar um histograma') # criar uma caixa de seleção
 
-iscatter_button = st.button('Criar gráfico de dispersão')
+scatter_button = st.button('Criar gráfico de dispersão')
 
 if scatter_button:
     st.write('Criando um gráfico de dispersão para preço vs quilometragem')

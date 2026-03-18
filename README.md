@@ -27,6 +27,8 @@ Este projeto é um aplicativo web interativo desenvolvido com Streamlit que perm
 - **Pandas**: Manipulação e análise de dados
 - **Render**: Plataforma de deploy
 
+https://sprint5-ptxp.onrender.com
+
 ## Estrutura do Projeto
 
 ```
